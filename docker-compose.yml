@@ -1,5 +1,4 @@
-services:
-  web:
-    image: asifrc/es6sucks
-    ports:
-    - 3030:3000
+web:
+  image: asifrc/es6sucks
+  ports:
+  - 3030:3000
